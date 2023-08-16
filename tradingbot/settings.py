@@ -8,8 +8,8 @@ import logging
 TESTNET = True
 
 # The Binance Futures API requires permanent API keys.
-API_KEY = ""
-API_SECRET = ""
+API_KEY = "5555b9193f6544d20a3072d7a1e4b3c8a4aad9b0a100c8c63a483a2356e05fcb"
+API_SECRET = "df5fa7ac2ce5bfa6177d25346e91e7624f4e8bc7e6fe3fa7a76e3f5c6928af5f"
 
 
 ########################################################################################################################
